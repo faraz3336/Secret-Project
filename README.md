@@ -71,7 +71,7 @@ Secret-Project/
 📸 Preview
 ## Demo
 
-![Demo Screenshot](./Secret-Project.png)  
+![Demo Screenshot](./Secret-ImageHover.png)  
 *(Replace with your actual screenshot if available)*
 
 💡 Inspiration
